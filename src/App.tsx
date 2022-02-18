@@ -30,6 +30,6 @@ export function App() {
       />
 
       <GlobalStyle />
-    </>
+    </> 
   );
 }
